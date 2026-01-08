@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hello there! I’m Shreya, a first-year Information Tehnology student at Indian Institute of Information Technology Allahabad(IIITA).
+👋 Hello there! I’m Shreya, a second-year Information Tehnology student at Indian Institute of Information Technology Allahabad(IIITA).
 
 🌱 I’m currently learning about C/C++ and web development.
 
